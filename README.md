@@ -59,37 +59,18 @@
 
 <p align="center">
 
-<img src="./assets/metadata.png" />
+<img src="./assets/metadata.png" align="center" />
 
-<div style="display: flex; flex-direction: column;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" />
 
-<div style="display: flex; gap: 8px">
-
-<div style="height: 100%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="height: 100%">
-
-![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilshr&theme=gruvbox)
-
-</div>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=emilshr&theme=gruvbox" align="center" />
 
 ![Snake animation](https://github.com/emilshr/emilshr/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 </p>
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-
 ## My spotify activity
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2i0hth6y49lt8dr9l50byct4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
