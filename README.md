@@ -2,6 +2,10 @@
 <img src="./assets/about-me.png" />
 </p>
 
+#### Building Notifi 🛠️
+
+I am building an open source web app crash monitoring tool. Check it out here 👉 [Notifi](https://www.notifi.site)
+
 ```json
 {
   "name": "Emil Sharier S",
