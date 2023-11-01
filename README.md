@@ -11,7 +11,7 @@ I am building an open source web app crash monitoring tool. Check it out here ðŸ
   "name": "Emil Sharier S",
   "occupation": "Software Engineer",
   "based_in": "Kerala, India",
-  "current_organisation": "Vamstar",
+  "current_organisation": "Sigtech",
   "interests": [
     "Web development",
     "Mobile application development",
