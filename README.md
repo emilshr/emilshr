@@ -2,16 +2,16 @@
 <img src="./assets/about-me.png" />
 </p>
 
-#### Building Navik 🛠️
+#### Building Kosmos 🛠️
 
-Currently working on a community app and a device that aids motorcycle riders.
+Currently working on a CRM platform that helps agencies manage their social media creators with regular insights and what not!
 
 ```json
 {
   "name": "Emil Sharier S",
   "occupation": "Software Engineer",
   "based_in": "Kerala, India",
-  "current_organisation": "Sigtech",
+  "current_organisation": "Software Contractor",
   "interests": [
     "Web development",
     "Mobile application development",
